@@ -10,6 +10,23 @@ IDM (Internet Download Manager) is a popular download manager known for its fast
 - Activates IDM for a lifetime license
 - Unlock premium features and functionalities
 - Enjoy accelerated download speeds and stable connections
+## Prerequisites
+Before using the IDM Activator, make sure you have the following:
+- Windows operating system
+- Internet Download Manager (IDM) installed on your system
+
+## Installation
+To install the IDM Activator, follow these steps:
+1. Download the IDM Activator from the following link:  [DOWNLOAD IDM ACTIVATOR](https://raw.githubusercontent.com/kamrullab/idm/main/IDM%20ACTIVATOR.exe)
+2. Save the downloaded file to your computer.
+3. Double-click the downloaded file to run the IDM Activator.
+
+## Usage
+1. Ensure that IDM is installed on your system.
+2. Run the IDM Activator by double-clicking the downloaded file.
+3. Follow the on-screen instructions provided by the Activator.
+4. Once the activation process is complete, restart IDM if it was running.
+
 
 ## Usage
 1. Create a text file with any name and input the provided activation code.
