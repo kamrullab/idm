@@ -35,7 +35,7 @@ Before using the IDM Activator, make sure you have the following:
 
 ## Installation
 To install the IDM Activator, follow these steps:
-1. Download the IDM Activator from the following link:  [DOWNLOAD IDM ACTIVATOR](https://raw.githubusercontent.com/kamrullab/idm/main/IDM.cmd)
+1. Download the IDM Activator from the following link:  [DOWNLOAD IDM ACTIVATOR](https://github.com/kamrullab/idm/blob/main/IDM.cmd)
 2. Save the downloaded file to your computer.
 3. Double-click the downloaded file to run the IDM Activator.
 
