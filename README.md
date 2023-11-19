@@ -953,6 +953,19 @@ Contributions to this repository are welcome. If you have suggestions for improv
 
 ## Disclaimer
 This repository and its contributors are not responsible for any misuse or illegal activities related to IDM activation. Please ensure that you comply with the terms and conditions set by the IDM software and use it responsibly and legally.
+## CREDITS
+
+All credit goes to:
+
+- NSANEFORUMS
+- DUKUN CABUL
+- WINDOWSADDICT
+- AVEYO AKA BAU
+- ABBODI1406
+- DBENHAM
+- ELITEKAMRUL
+
+Feel free to acknowledge their contributions.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
