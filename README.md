@@ -21,6 +21,21 @@ Feel free to reach out to us on any of these platforms. Your feedback and engage
 
 Activate IDM for Lifetime: The fastest download accelerator.
 
+### Method 1 - PowerShell (Recommended)
+1. Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
+2. Copy and paste the code below and press enter:
+    ```powershell
+    irm https://massgrave.dev/ias | iex
+    ```
+    
+    ```powershell
+    irm https://massgrave.dev/get | iex
+
+    ```
+
+4. Follow the on-screen instructions for activation.
+
+
 ## Description
 IDM (Internet Download Manager) is a popular download manager known for its fast download speeds and enhanced features. This repository provides a method to activate IDM for a lifetime, allowing you to enjoy its full capabilities without limitations.
 
