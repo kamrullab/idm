@@ -80,7 +80,7 @@ IDM.CMD
 @echo off
 
 :: Add custom name in IDM license info, prefer to write it in English and/or numeric in below line after = sign,
-set name=Kamrul Hossain
+set name=IDM Activator
 
 
 
@@ -231,7 +231,7 @@ if defined activate goto _activate
 :MainMenu
 
 cls
-title  EliteKamrul ^(Kamrul Hossain^)
+title  Notme ^(Not Me^)
 mode 65, 25
 
 :: Check firewall status
@@ -978,7 +978,7 @@ All credit goes to:
 - AVEYO AKA BAU
 - ABBODI1406
 - DBENHAM
-- ELITEKAMRUL
+- You did not make this
 
 Feel free to acknowledge their contributions.
 
